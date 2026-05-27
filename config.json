@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperderify",
+        "uuid": 21235500,
+        "checksum": "9f2b39"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
